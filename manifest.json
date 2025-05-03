@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Force Serif Fonts",
+  "version": "1.0",
+  "description": "Changes all fonts on web pages to the default, serif.",
+  "action": {
+    "default_icon": {
+      "48": "icon.png"
+    },
+    "default_title": "Serif Enforcer"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["styles.css"]
+    }
+  ],
+  "permissions": []
+}
