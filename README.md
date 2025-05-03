@@ -2,7 +2,7 @@
 Changes all fonts on web pages to the default, serif.
 # Install Instructions!
 <h1><font color="red">C</font><font color="green">h</font><font color="yellow">r</font><font color="blue">o</font><font color="red">m</font><font color="green">e</font></h1>
-<font color="red">1.</font> Download the source files.
+<p1><font color="red">1.</font> Download the source files.</p1>
 <font color="red">2.</font> Open Chrome and go to chrome://extensions/.
 <font color="red">3.</font> Enable "Developer mode" in the top-right corner.
 <font color="red">4.</font> Click "Load unpacked" and select the folder where the extension files are stored (manifest.json, styles.css).
